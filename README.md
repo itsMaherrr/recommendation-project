@@ -17,9 +17,14 @@ This project is intended for academic and educational purposes in the context of
 ---
 
 ## Repository Structure
-├── projet_recommandation.ipynb # Main notebook
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
+
+```
+.
+├── projet_recommandation.ipynb   # Main notebook
+├── README.md                     # Project documentation
+├── requirements.txt              # Python dependencies
+```
+
 ---
 
 ## How to Run the Project
